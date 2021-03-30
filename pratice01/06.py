@@ -10,3 +10,4 @@ for i in currency:
         n = money / i
         money = money % i
         print("%d원 : %d개" %(i,n))
+

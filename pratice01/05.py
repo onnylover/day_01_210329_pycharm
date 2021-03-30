@@ -9,5 +9,6 @@ for i in ll:
         lc.append(i)
         sum += i
 
+
 print("주어진 리스트에서 3의 배수의 개수 => %d" %len(lc))
 print("주어진 리스트에서 3의 배수의 합 => %d" %sum)

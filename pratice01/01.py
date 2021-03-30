@@ -3,7 +3,7 @@
 n = input("수를 입력하세요 : ")
 
 try :
-    float(n)
+    float(n) 
 except:
     print("정수가 아닙니다")
 else:

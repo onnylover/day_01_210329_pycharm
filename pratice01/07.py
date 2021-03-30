@@ -8,3 +8,4 @@ while count < 5 :
     count += 1
 cal = float(avg/5)
 print("평균 : %1.1f" %cal)
+
