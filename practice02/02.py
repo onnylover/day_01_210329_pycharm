@@ -19,9 +19,8 @@ print(g)
 t = s.replace(s[5],"")
 print(t)
 
-#for 문으러 find 함수 조합
-#find는 시작 위치
-#substring 이라는 기능으로 해도 됨
+#for 문으로 find 함수 조합
+#find는 시작 위치, substring 이라는 기능으로 해도 됨
 
 # import re
 # def remove_tag(content):
