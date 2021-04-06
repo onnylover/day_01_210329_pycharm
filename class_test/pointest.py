@@ -7,4 +7,8 @@ p1.draw()
 p2 = ColorPoint("red",30,50)
 p2.draw()
 
+print(type(p2))
+print(p2)
+i = 10
+print(i)
 print(Point.count_of_instance)
